@@ -11,3 +11,10 @@ geographic locations, based on Maxmind's GeoIP API.
 The locations you wish to limit are specified in a
 separate config xml file, which is reloaded on each
 change, so it doesn't require a Wowza server restart.
+
+### Support:
+
+If you want the good work to continue please support us on
+
+* [PAYPAL](https://www.paypal.me/ishandutta2007)
+* [BITCOIN ADDRESS: 3LZazKXG18Hxa3LLNAeKYZNtLzCxpv1LyD](https://www.coinbase.com/join/5a8e4a045b02c403bc3a9c0c)
